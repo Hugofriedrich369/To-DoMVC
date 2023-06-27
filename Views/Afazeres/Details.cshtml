@@ -1,0 +1,29 @@
+@model To_doMVC.Models.AfazeresViewModel
+@{
+    ViewBag.Title = "Detalhes do Afazer";
+}
+
+<h2>Detalhes do Afazer</h2>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>@Html.DisplayNameFor(model => model.Id)</dt>
+        <dd>@Html.DisplayFor(model => model.Id)</dd>
+
+        <dt>@Html.DisplayNameFor(model => model.Titulo)</dt>
+        <dd>@Html.DisplayFor(model => model.Titulo)</dd>
+
+        <dt>@Html.DisplayNameFor(model => model.Desc)</dt>
+        <dd>@Html.DisplayFor(model => model.Desc)</dd>
+
+        <dt>@Html.DisplayNameFor(model => model.Status)</dt>
+        <dd>@Html.DisplayFor(model => model.Status)</dd>
+
+        <dt>@Html.DisplayNameFor(model => model.Data)</dt>
+        <dd>@Html.DisplayFor(model => model.Data)</dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new {id = Model.Id})
+    @Html.ActionLink("Retornar","Index")
+</p>

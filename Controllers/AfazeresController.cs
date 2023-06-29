@@ -55,6 +55,8 @@ namespace To_doMVC.Controllers
             try
             {
                 HttpClient httpClient = new HttpClient();
+                
+                a.Data = DateTime.Now;
 
                 var content = new StringContent(JsonConvert.SerializeObject(a));
                 content.Headers.ContentType = new MediaTypeHeaderValue("application/json");
@@ -75,6 +77,7 @@ namespace To_doMVC.Controllers
                 return RedirectToAction("Create");
             }
         }
+
         [HttpGet]
         public async Task<ActionResult> DetailsAsync(int? id)
         {

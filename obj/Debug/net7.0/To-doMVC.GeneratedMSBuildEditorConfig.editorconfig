@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = To_DoMVC
 build_property.RootNamespace = To_DoMVC
-build_property.ProjectDir = c:\Users\pvpda\Documents\To-do\To-doMVC\
+build_property.ProjectDir = C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\pvpda\Documents\To-do\To-doMVC
+build_property.MSBuildProjectDirectory = C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/pvpda/Documents/To-do/To-doMVC/Views/Afazeres/Create.cshtml]
+[C:/Users/pvpda/OneDrive/Área de Trabalho/Etec/To-DoMVC/Views/Afazeres/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWZhemVyZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/pvpda/Documents/To-do/To-doMVC/Views/Afazeres/Details.cshtml]
+[C:/Users/pvpda/OneDrive/Área de Trabalho/Etec/To-DoMVC/Views/Afazeres/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWZhemVyZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/pvpda/Documents/To-do/To-doMVC/Views/Afazeres/Edit.cshtml]
+[C:/Users/pvpda/OneDrive/Área de Trabalho/Etec/To-DoMVC/Views/Afazeres/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWZhemVyZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/pvpda/Documents/To-do/To-doMVC/Views/Afazeres/Index.cshtml]
+[C:/Users/pvpda/OneDrive/Área de Trabalho/Etec/To-DoMVC/Views/Afazeres/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWZhemVyZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/pvpda/Documents/To-do/To-doMVC/Views/Home/Index.cshtml]
+[C:/Users/pvpda/OneDrive/Área de Trabalho/Etec/To-DoMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/pvpda/Documents/To-do/To-doMVC/Views/Home/Privacy.cshtml]
+[C:/Users/pvpda/OneDrive/Área de Trabalho/Etec/To-DoMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/pvpda/Documents/To-do/To-doMVC/Views/Shared/Error.cshtml]
+[C:/Users/pvpda/OneDrive/Área de Trabalho/Etec/To-DoMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/pvpda/Documents/To-do/To-doMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/pvpda/OneDrive/Área de Trabalho/Etec/To-DoMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/pvpda/Documents/To-do/To-doMVC/Views/_ViewImports.cshtml]
+[C:/Users/pvpda/OneDrive/Área de Trabalho/Etec/To-DoMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/pvpda/Documents/To-do/To-doMVC/Views/_ViewStart.cshtml]
+[C:/Users/pvpda/OneDrive/Área de Trabalho/Etec/To-DoMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/pvpda/Documents/To-do/To-doMVC/Views/Shared/_Layout.cshtml]
+[C:/Users/pvpda/OneDrive/Área de Trabalho/Etec/To-DoMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-goironmse9

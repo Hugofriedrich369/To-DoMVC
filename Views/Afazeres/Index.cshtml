@@ -1,5 +1,18 @@
 @model IEnumerable<To_doMVC.Models.AfazeresViewModel>
 
+@if (@TempData["MensagemErro"] != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @Html.Raw(TempData["MensagemErro"])</div>
+}
+
+@if (@TempData["Mensagem"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        @Html.Raw(TempData["Mensagem"])</div>
+}
+
+
 @{
     ViewBag.Title = "Afazeres";
 }
@@ -23,11 +36,19 @@
             <td>@Html.DisplayFor(modelItem => item.Id)</td>
             <td>@Html.DisplayFor(modelItem => item.Titulo)</td>
             <td>@Html.DisplayFor(modelItem => item.Data)</td>
-            <td>@Html.DisplayFor(modelItem => item.Status)</td>
+            <td>
+                @if (item.Status)
+                {
+                    <text>Realizado</text>
+                }
+                else
+                {
+                    <text>Não Realizado</text>
+                }
+            </td>
             <td>
                 @Html.ActionLink("Editar", "Edit", new { id = item.Id } ) |
                 @Html.ActionLink("Detalhes", "Details", new { id = item.Id } ) |
-                @Html.ActionLink("Alterar Status", "Status", new { id = item.Id } ) |
                 @Html.ActionLink("Deletar", "Delete", new { id = item.Id } ) |
 
             </td>

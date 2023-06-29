@@ -70,3 +70,39 @@ C:\Users\pvpda\Documents\To-do\To-doMVC\obj\Debug\net7.0\refint\To-DoMVC.dll
 C:\Users\pvpda\Documents\To-do\To-doMVC\obj\Debug\net7.0\To-DoMVC.pdb
 C:\Users\pvpda\Documents\To-do\To-doMVC\obj\Debug\net7.0\To-DoMVC.genruntimeconfig.cache
 C:\Users\pvpda\Documents\To-do\To-doMVC\obj\Debug\net7.0\ref\To-DoMVC.dll
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\bin\Debug\net7.0\appsettings.json
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\bin\Debug\net7.0\To-DoMVC.staticwebassets.runtime.json
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\bin\Debug\net7.0\To-DoMVC.exe
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\bin\Debug\net7.0\To-DoMVC.deps.json
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\bin\Debug\net7.0\To-DoMVC.runtimeconfig.json
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\bin\Debug\net7.0\To-DoMVC.dll
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\bin\Debug\net7.0\To-DoMVC.pdb
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\obj\Debug\net7.0\To-DoMVC.csproj.AssemblyReference.cache
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\obj\Debug\net7.0\To-DoMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\obj\Debug\net7.0\To-DoMVC.AssemblyInfoInputs.cache
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\obj\Debug\net7.0\To-DoMVC.AssemblyInfo.cs
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\obj\Debug\net7.0\To-DoMVC.csproj.CoreCompileInputs.cache
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\obj\Debug\net7.0\To-DoMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\obj\Debug\net7.0\To-DoMVC.RazorAssemblyInfo.cache
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\obj\Debug\net7.0\To-DoMVC.RazorAssemblyInfo.cs
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\obj\Debug\net7.0\staticwebassets\msbuild.To-DoMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\obj\Debug\net7.0\staticwebassets\msbuild.build.To-DoMVC.props
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.To-DoMVC.props
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.To-DoMVC.props
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\obj\Debug\net7.0\scopedcss\bundle\To-DoMVC.styles.css
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\obj\Debug\net7.0\scopedcss\projectbundle\To-DoMVC.bundle.scp.css
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\obj\Debug\net7.0\To-DoMVC.csproj.CopyComplete
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\obj\Debug\net7.0\To-DoMVC.dll
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\obj\Debug\net7.0\refint\To-DoMVC.dll
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\obj\Debug\net7.0\To-DoMVC.pdb
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\obj\Debug\net7.0\To-DoMVC.genruntimeconfig.cache
+C:\Users\pvpda\OneDrive\Área de Trabalho\Etec\To-DoMVC\obj\Debug\net7.0\ref\To-DoMVC.dll
